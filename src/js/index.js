@@ -43,3 +43,7 @@ onSnapshot(collection(db, dbName), doc => {
 
   graphController(data);
 });
+
+console.log(
+  'Cảm ơn bạn đã ghé chơi nhưng bạn vô đây là có ý đồ gì đây? Kiếm mật khẩu hả? 😅'
+);
