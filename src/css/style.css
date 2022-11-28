@@ -1,0 +1,28 @@
+.nav {
+  background: #333;
+}
+
+.chase-text {
+  color: #00bfa5 !important;
+}
+
+button {
+  background: #00bfa5 !important;
+  margin-bottom: 20px;
+  width: 100%;
+  padding: 16px;
+  font-size: 1.6em;
+  color: #fff;
+  border: 0;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all linear 0.1s;
+}
+
+button:hover {
+  background: #0dcab1 !important;
+}
+
+form span {
+  color: #00bfa5 !important;
+}
