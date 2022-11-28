@@ -45,5 +45,5 @@ onSnapshot(collection(db, dbName), doc => {
 });
 
 console.log(
-  'Cảm ơn bạn đã ghé chơi nhưng bạn vô đây là có ý đồ gì đây? Kiếm mật khẩu hả? 😅'
+  'Cảm ơn bạn đã ghé chơi, nhưng bạn vô đây là có ý đồ gì đây? Kiếm mật khẩu hả? 😅'
 );
